@@ -7,7 +7,7 @@
 <!-- 声明一个Bean -->
 <bean id="testService" class="com.ht.test.projecthet.service.impl.TestServiceImpl">
     <!-- 配置属性 -->
-    <property name="propertyName" value="propertyValue"/>
+    <property name="propertyName" value="testtesttest"/>
 </bean>
 
 </beans>
